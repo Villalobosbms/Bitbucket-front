@@ -147,4 +147,85 @@
       width: 100%;
       height: 30vh;
     }
+
+    @media (max-width: 1400px) {
+      *{
+        font-size: 14px;
+      }
+      input{
+        font-size: 14px;
+      }
+      textarea{
+        height: 12rem;
+        font-size: 14px;
+      }
+
+      .modal{
+        width: 100%;
+        height: 100%;
+      }
+      .content-modal{
+        position: absolut;
+        width: 90%;
+        height: 53vh;
+      }
+      button {
+        width: 100%;
+        padding: 0.4rem;
+      }
+    }
+
+    @media (max-width: 1024px) {
+      *{
+        font-size: 14px;
+      }
+      input{
+        font-size: 14px;
+      }
+      textarea{
+        height: 12rem;
+        font-size: 14px;
+      }
+
+      .modal{
+        width: 100%;
+        height: 100%;
+      }
+      .content-modal{
+        position: absolut;
+        width: 90%;
+        height: 53vh;
+      }
+      button {
+        width: 100%;
+        padding: 0.4rem;
+      }
+    }
+
+    @media (max-width: 640px) {
+      *{
+        font-size: 14px;
+      }
+      input{
+        font-size: 14px;
+      }
+      textarea{
+        height: 12rem;
+        font-size: 14px;
+      }
+
+      .modal{
+        width: 100%;
+        height: 100%;
+      }
+      .content-modal{
+        position: absolut;
+        width: 90%;
+        height: 53vh;
+      }
+      button {
+        width: 100%;
+        padding: 0.4rem;
+      }
+    }
 </style>
